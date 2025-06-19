@@ -30,6 +30,9 @@ cd app
 ```
 
 #### add .env file inside app folder
+```bash
+.env
+```
 
 
 ```bash
